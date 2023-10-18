@@ -30,7 +30,7 @@
 ## 동작 구조 설계
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5fdc010c-d862-4163-9871-6c5fe943a8fe)
 
-# 소프트웨어 설계
+# 소프트웨어 설계(임정수, 신창건 개발)
 ## 소프트웨어 개발 환경
 ![image](https://github.com/dontoong/smart_window/assets/106039761/d0802473-8b64-490f-a831-713bd086a038)
 
@@ -40,7 +40,67 @@
 ![image](https://github.com/dontoong/smart_window/assets/106039761/7a9183b9-eb3e-4784-9e8a-1aa8a1401917)
 
 <br/><br/>
-## 상관분석
 
+## 상관분석
+![image](https://github.com/dontoong/smart_window/assets/106039761/24b0a12e-1e66-4f6f-a7e0-2e5e223a9678)\
+<br/><br/>
+
+## 사용할 데이터 분류
+![image](https://github.com/dontoong/smart_window/assets/106039761/2efa2613-f591-4b8c-8c64-219766180400)
+<br/><br/>
+
+## 결측치 제거(1)
+![image](https://github.com/dontoong/smart_window/assets/106039761/b0635f7d-da1a-4417-bb62-a537c3ef0f4c)
+<br/><br/>
+
+## 이상치 제거
+![image](https://github.com/dontoong/smart_window/assets/106039761/19628ec6-d7b2-46a7-afeb-170c06d90bb2)
+<br/><br/>
+
+## 결측치 제거(2)
+![image](https://github.com/dontoong/smart_window/assets/106039761/a83fb3a2-1df5-4d1b-8b8e-40012078e004)
+<br/><br/>
+
+## 데이터 표준화
+![image](https://github.com/dontoong/smart_window/assets/106039761/1791fe4f-9236-4a6c-b192-15f708c2a5df)
+<br/><br/>
+
+## 데이터 분할
+![image](https://github.com/dontoong/smart_window/assets/106039761/b42f455a-61ec-4ab9-9d6d-3b7abb8f5912)
+<br/><br/>
+
+## 모델 학습
+![image](https://github.com/dontoong/smart_window/assets/106039761/b5bf8200-b4bd-4179-829e-c97fdb38b9a1)
+<br/><br/>
+![image](https://github.com/dontoong/smart_window/assets/106039761/f10001a7-d329-47ec-b625-8bf66b66201a)
+<br/><br/>
+
+## 모델 평가
+![image](https://github.com/dontoong/smart_window/assets/106039761/d9c931a8-9a91-45d8-bb52-9e143942123a)
+<br/><br/>
+![image](https://github.com/dontoong/smart_window/assets/106039761/e61f4057-3b70-4b9c-8e94-79f50eb42a22)
+<br/><br/>
+
+## 예측 모델
+![image](https://github.com/dontoong/smart_window/assets/106039761/dffa9db8-7937-41d3-ad39-40b7c6d15212)
+<br/><br/>
+
+## 모델 양자화
+![image](https://github.com/dontoong/smart_window/assets/106039761/04a4f368-55d1-4374-9c4f-d22b60c891a4)
+<br/><br/>
+
+## 모델 탑재
+![image](https://github.com/dontoong/smart_window/assets/106039761/e5c60039-b5b6-42b4-b30f-ab46129bfc4a)
+<br/><br/>
+
+## 센서 입력값 수신
+![image](https://github.com/dontoong/smart_window/assets/106039761/7d4da563-1404-4f75-a3a8-e3cb92957884)
+<br/><br/>
+
+## 보드간 UART 통신
+![image](https://github.com/dontoong/smart_window/assets/106039761/2c6adcd7-7c1d-4a19-a1fc-8e45c5e69084)
+<br/><br/>
+![image](https://github.com/dontoong/smart_window/assets/106039761/8d33a1e9-87e8-4fbc-b621-e46acab17e74)
+<br/><br/>
 
 
