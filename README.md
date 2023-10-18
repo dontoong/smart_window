@@ -7,7 +7,7 @@
 프로젝트 중 팀 총괄, 센서 회로 설계 및 [하드웨어 개발 부분](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)을 담당하였습니다.<br/><br/>
 [소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-개발임정수-신창건-개발)<br/><br/>
 [하드웨어 개발 보러 가기](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)<br/><br/>
-
+[작동 영상 보러가기[(https://github.com/dontoong/smart_window#동작-영상)<br/><br/>
 # 서론
 ## 미세먼지의 위험성
 - 미세먼지에 대한 노출은 심장 및 폐 관련 질환 등을 발생시킴.
