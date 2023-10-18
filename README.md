@@ -146,8 +146,14 @@
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5bd34308-3cf2-40fd-b406-df4c12d2b0c8)
 <br/><br/>
 
-# 동작 방식 및 구조
-## 실제 동작 방식
-![image](https://github.com/dontoong/smart_window/assets/106039761/8bdc5255-078b-4dd3-9d9d-a1a1bc098b93)
+# 실제 동작 순서
+![image](https://github.com/dontoong/smart_window/assets/106039761/07adf8ce-b930-43ce-8b3e-2583e35dbbca)
+<br/><br/>
 
+# 동작 영상
+![gif파일](https://github.com/dontoong/smart_window/assets/106039761/6eb31b13-2ac6-4c3b-87bf-75ff1ec1a9b1)
+<br/><br/>
 
+# 기대효과
+![image](https://github.com/dontoong/smart_window/assets/106039761/d1c11ce3-1232-495f-8aff-4add5365e03f)
+<br/><br/>
