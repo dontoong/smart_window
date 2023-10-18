@@ -34,4 +34,12 @@
 ## 소프트웨어 개발 환경
 ![image](https://github.com/dontoong/smart_window/assets/106039761/d0802473-8b64-490f-a831-713bd086a038)
 
-## 주제 선정
+## 데이터 수집
+![image](https://github.com/dontoong/smart_window/assets/106039761/9cd9d623-22b2-4671-928d-4fbefbbf9224)
+<br/><br/>
+![image](https://github.com/dontoong/smart_window/assets/106039761/86056dd4-34b6-4940-a595-e0241021e409)
+<br/><br/>
+## 상관분석
+
+
+
