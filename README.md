@@ -151,7 +151,12 @@
 <br/><br/>
 
 # 동작 영상
-![gif파일](https://github.com/dontoong/smart_window/assets/106039761/6eb31b13-2ac6-4c3b-87bf-75ff1ec1a9b1)
+![gif_close](https://github.com/dontoong/smart_window/assets/106039761/57ccd62f-0de8-4167-9d14-6ab972f2f306)
+
+<br/><br/>
+
+![gif_open](https://github.com/dontoong/smart_window/assets/106039761/b66b4377-b54e-478e-a854-d26a7030a380)
+
 <br/><br/>
 
 # 기대효과
