@@ -5,7 +5,7 @@
 팀장 : 김명근(본인) / 팀원 : 신창건, 임정수, 정다진<br/><br/>
 개발 기간 : 2022.03 ~ 2022.12<br/><br/>
 프로젝트 중 팀 총괄, 센서 회로 설계 및 [하드웨어 개발 부분](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)을 담당하였습니다.<br/><br/>
-[소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-개발임정수-신창건-개발)<br/><br/>
+[소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-개발김명근팀장-임정수-신창건-개발)<br/><br/>
 [하드웨어 개발 보러 가기](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)<br/><br/>
 [동작 영상 보러가기](https://github.com/dontoong/smart_window#동작-영상)<br/><br/>
 # 서론
@@ -37,7 +37,7 @@
 ## 동작 구조 순서
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5fdc010c-d862-4163-9871-6c5fe943a8fe)
 
-# 소프트웨어 개발(임정수, 신창건 개발)
+# 소프트웨어 개발(김명근(팀장), 임정수, 신창건 개발)
 ## 소프트웨어 개발 환경
 ![image](https://github.com/dontoong/smart_window/assets/106039761/d0802473-8b64-490f-a831-713bd086a038)
 
