@@ -5,8 +5,9 @@
 팀장 : 김명근 / 팀원 : 신창건, 임정수, 정다진<br/><br/>
 개발 기간 : 2022.03 ~ 2022.12<br/><br/>
 프로젝트 중 팀 총괄, 센서 회로 설계 및 [하드웨어 개발 부분](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)을 담당하였습니다.<br/><br/>
-[소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-개발임정수-신창건-개발)
-[하드웨어 개발 보러 가기](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)
+[소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-개발임정수-신창건-개발)<br/><br/>
+[하드웨어 개발 보러 가기](https://github.com/dontoong/smart_window#하드웨어-개발김명근팀장-정다진-개발)<br/><br/>
+
 # 서론
 ## 미세먼지의 위험성
 - 미세먼지에 대한 노출은 심장 및 폐 관련 질환 등을 발생시킴.
@@ -16,6 +17,9 @@
 - 혈관기능장애로 인한 가슴 압박감, 가슴 통증, 가슴 두근거림, 호흡 곤란 등 심혈관계 증상.
 - 가려움, 피부 알레르기, 아토피피부.
 - 통증, 이물감, 가려움증을 동반하는 알레르기, 결막염과 안구건조증.
+<br/>
+![image](https://github.com/dontoong/smart_window/assets/106039761/902c6c02-d9a3-4e51-8407-0a68061d8619)
+<br/><br/>
 
 ## 주제 선정
 - 일반 가정 및 회사에서는 환기를 위해 주기적으로 창문을 개폐하는 것을 통해 환기를 시키는데, 미세먼지 농도가 높을 때 환기를 시키면 오히려 악영향을 끼치게 되는 문제점이 발생. 이와 같은 문제점을 해결하고자 함.<br/><br/>
@@ -26,16 +30,16 @@
 
 # 개발 구상
 ## 개발 목표
-![image](https://github.com/dontoong/smart_window/assets/106039761/d45936b8-eee8-40d7-8891-942d8424e6aa)
+![image](https://github.com/dontoong/smart_window/assets/106039761/97814f2e-c6e2-4790-aa77-a45e3392d65a)
 
-## 동작 구조 설계
+## 동작 구조 순서
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5fdc010c-d862-4163-9871-6c5fe943a8fe)
 
 # 소프트웨어 개발(임정수, 신창건 개발)
 ## 소프트웨어 개발 환경
 ![image](https://github.com/dontoong/smart_window/assets/106039761/d0802473-8b64-490f-a831-713bd086a038)
 
-## 데이터 수집
+## 공공데이터 활용
 ![image](https://github.com/dontoong/smart_window/assets/106039761/9cd9d623-22b2-4671-928d-4fbefbbf9224)
 <br/><br/>
 ![image](https://github.com/dontoong/smart_window/assets/106039761/7a9183b9-eb3e-4784-9e8a-1aa8a1401917)
@@ -138,9 +142,12 @@
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5bd34308-3cf2-40fd-b406-df4c12d2b0c8)
 <br/><br/>
 
+# 동작 방식 및 구조
+## 실제 동작 방식
+![image](https://github.com/dontoong/smart_window/assets/106039761/8bdc5255-078b-4dd3-9d9d-a1a1bc098b93)
 
-
-
+## 실제 동작 구조
+![image](https://github.com/dontoong/smart_window/assets/106039761/56281e2a-407b-46a4-b50b-828742a02693)
 
 
 
