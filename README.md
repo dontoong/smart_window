@@ -117,6 +117,10 @@
 ![image](https://github.com/dontoong/smart_window/assets/106039761/7c53c91a-df78-440d-bcb3-88b03c42c513)
 <br/><br/>
 
+## 하드웨어 동작 구조
+![image](https://github.com/dontoong/smart_window/assets/106039761/56281e2a-407b-46a4-b50b-828742a02693)
+<br/><br/>
+
 ## 회로 설계
 ![image](https://github.com/dontoong/smart_window/assets/106039761/cf39f3a1-c764-4f05-86c3-2b476a89118a)
 <br/><br/>
@@ -145,13 +149,5 @@
 # 동작 방식 및 구조
 ## 실제 동작 방식
 ![image](https://github.com/dontoong/smart_window/assets/106039761/8bdc5255-078b-4dd3-9d9d-a1a1bc098b93)
-
-## 실제 동작 구조
-![image](https://github.com/dontoong/smart_window/assets/106039761/56281e2a-407b-46a4-b50b-828742a02693)
-
-
-
-
-
 
 
