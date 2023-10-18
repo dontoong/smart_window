@@ -4,8 +4,9 @@
 팀명 : 베덕단<br/><br/>
 팀장 : 김명근 / 팀원 : 신창건, 임정수, 정다진<br/><br/>
 개발 기간 : 2022.03 ~ 2022.12<br/><br/>
-프로젝트 중 팀 총괄, 센서 회로 설계 및 [하드웨어 개발 부분](https://github.com/dontoong/smart_window#개발-구상)을 담당하였습니다.<br/><br/>
-
+프로젝트 중 팀 총괄, 센서 회로 설계 및 [하드웨어 개발 부분](https://github.com/dontoong/smart_window#하드웨어-설계)을 담당하였습니다.<br/><br/>
+[소프트웨어 개발 보러 가기](https://github.com/dontoong/smart_window#소프트웨어-설계)
+[하드웨어 개발 보러 가기](https://github.com/dontoong/smart_window#하드웨어-설계)
 # 서론
 ## 미세먼지의 위험성
 - 미세먼지에 대한 노출은 심장 및 폐 관련 질환 등을 발생시킴.
@@ -30,7 +31,7 @@
 ## 동작 구조 설계
 ![image](https://github.com/dontoong/smart_window/assets/106039761/5fdc010c-d862-4163-9871-6c5fe943a8fe)
 
-# 소프트웨어 설계(임정수, 신창건 개발)
+# 소프트웨어 개발(임정수, 신창건 개발)
 ## 소프트웨어 개발 환경
 ![image](https://github.com/dontoong/smart_window/assets/106039761/d0802473-8b64-490f-a831-713bd086a038)
 
@@ -103,4 +104,4 @@
 ![image](https://github.com/dontoong/smart_window/assets/106039761/8d33a1e9-87e8-4fbc-b621-e46acab17e74)
 <br/><br/>
 
-
+# 하드웨어 개발(김명근(팀장), 정다진 개발)
