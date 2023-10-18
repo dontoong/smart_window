@@ -105,3 +105,46 @@
 <br/><br/>
 
 # 하드웨어 개발(김명근(팀장), 정다진 개발)
+## 하드웨어 구성
+![image](https://github.com/dontoong/smart_window/assets/106039761/d0aba718-3739-4346-8318-c0f9efd858df)
+<br/><br/>
+
+## 하드웨어(아두이노 보드) 선택
+![image](https://github.com/dontoong/smart_window/assets/106039761/7c53c91a-df78-440d-bcb3-88b03c42c513)
+<br/><br/>
+
+## 회로 설계
+![image](https://github.com/dontoong/smart_window/assets/106039761/cf39f3a1-c764-4f05-86c3-2b476a89118a)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/9d834117-e8b5-47c6-86b4-ece8d6a782df)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/545841b8-7a1c-4324-af20-f7a96d8b15e0)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/15a94d52-7c4e-496f-91f8-947ac62eca36)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/4b678dde-729b-474a-a726-98635dd926a4)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/2d1e8af3-ff91-4f46-bb71-2e3e2193ae19)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/d7e3b3b3-ffec-49eb-b49e-50031f991006)
+<br/><br/>
+
+![image](https://github.com/dontoong/smart_window/assets/106039761/5bd34308-3cf2-40fd-b406-df4c12d2b0c8)
+<br/><br/>
+
+
+
+
+
+
+
+
+
+
+
