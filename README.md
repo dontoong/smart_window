@@ -37,7 +37,8 @@
 ## 데이터 수집
 ![image](https://github.com/dontoong/smart_window/assets/106039761/9cd9d623-22b2-4671-928d-4fbefbbf9224)
 <br/><br/>
-![image](https://github.com/dontoong/smart_window/assets/106039761/86056dd4-34b6-4940-a595-e0241021e409)
+![image](https://github.com/dontoong/smart_window/assets/106039761/7a9183b9-eb3e-4784-9e8a-1aa8a1401917)
+
 <br/><br/>
 ## 상관분석
 
