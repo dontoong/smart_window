@@ -21,7 +21,7 @@
 - 단순히 현재의 미세먼지 농도를 측정하여 창문을 닫는 것뿐만 아니라, 인공지능 분야를 접목하여 1시간 뒤의 미세먼지 농도를 예측하여 그 수치에 따라 창문을 자동으로 개폐하여 높은 농도의 미세먼지 유입을 예방하는 작품을 만들고자 함.<br/><br/>
 
 ## TinyML이란?
-![image](https://github.com/dontoong/smart_window/assets/106039761/2d8f4c7d-a9bb-4f07-8808-6069144d9f83)
+![image](https://github.com/dontoong/smart_window/assets/106039761/64c11f61-ceaa-4303-a2b3-40061eee413f)
 
 # 개발 구상
 ## 개발 목표
