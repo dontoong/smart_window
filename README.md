@@ -106,7 +106,7 @@
 
 # 하드웨어 개발(김명근(팀장), 정다진 개발)
 ## 하드웨어 구성
-![image](https://github.com/dontoong/smart_window/assets/106039761/d0aba718-3739-4346-8318-c0f9efd858df)
+![image](https://github.com/dontoong/smart_window/assets/106039761/ca249f9b-1312-47ce-ab6a-d7249a44926d)
 <br/><br/>
 
 ## 하드웨어(아두이노 보드) 선택
